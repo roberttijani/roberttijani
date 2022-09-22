@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm robert 👋
 
 <!--
 **roberttijani/roberttijani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roberttijani&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/roberttijani/github-readme-activity-graph)
 
+  
+  <details>
+  <summary>📈 Latest Activity Graph</summary>
+  <samp>
+  <br/>
+  <h2 align="center"> latest contribution </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=roberttijani&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<br>
+  </samp>
+  </details>
