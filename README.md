@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roberttijani)](https://github.com/roberttijani/github-readme-activity-graph)
