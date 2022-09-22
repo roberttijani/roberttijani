@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
+![snake gif](https://github.com/roberttijani/roberttijani/blob/output/github-contribution-grid-snake.svg)
   
   <details>
   <summary>📈 Latest Activity Graph</summary>
