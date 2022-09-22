@@ -15,10 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roberttijani)](https://github.com/roberttijani/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roberttijani&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/roberttijani/github-readme-activity-graph)
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
