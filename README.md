@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roberttijani)](https://github.com/roberttijani/github-readme-activity-graph)
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/roberttijani/roberttijani/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+</p>
